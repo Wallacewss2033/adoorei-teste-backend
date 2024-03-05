@@ -12,7 +12,7 @@ git clone git@github.com:Wallacewss2033/ecommerce-abc.git
 
 ### Back-end
 
-- Entre na pasta do projeto ecommerce-abc e instale as dependencias
+- Entre na pasta do projeto 'ecommerce-abc' e instale as dependencias
 ```
 composer install
 ```
@@ -33,7 +33,7 @@ php artisan key:generate
 docker-compose up -d --build
 ```
 
--entre no terminal do projeto ``` ecommerce-abc ``` e Para criar o banco de dados
+- entre no terminal do projeto ``` ecommerce-abc ``` e Para criar o banco de dados
 ```
 php artisan migrate
 ```
@@ -48,3 +48,15 @@ OBS: CASO HAJA ALGUM PROBLEMA DE PERMISSÃO NO PROJETO RODE:
 - chown -R root:www-data storage
 - chmod -R 777 ./storage
 - chmod -R 775 ./storage
+
+### DOCUMENTAÇÃO
+
+- Clone a documentação desenvolvida no insomnia
+
+    - volte para a pasta raiz e rode:
+
+        ```
+        git clone git@github.com:Wallacewss2033/doc-ecoomerce-abc.git
+        
+OBS: Use no insomnia
+    

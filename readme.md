@@ -58,5 +58,5 @@ OBS: CASO HAJA ALGUM PROBLEMA DE PERMISSÃO NO PROJETO RODE:
         ```
         git clone git@github.com:Wallacewss2033/doc-ecoomerce-abc.git
         
-OBS: Use no insomnia
+OBS: Use no insomnia designer
     

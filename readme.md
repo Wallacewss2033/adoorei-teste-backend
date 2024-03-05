@@ -42,3 +42,9 @@ php artisan migrate
 ```
 php artisan db:seed
 ```
+
+OBS: CASO HAJA ALGUM PROBLEMA DE PERMISSÃO NO PROJETO RODE:
+
+- chown -R root:www-data storage
+- chmod -R 777 ./storage
+- chmod -R 775 ./storage
